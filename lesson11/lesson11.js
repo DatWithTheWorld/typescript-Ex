@@ -1,6 +1,6 @@
 let mine = {};
 mine = { name: "Eric" };
 
-mine.address = "Hỏi Dân IT";
+mine.address = "Da nang";
 
-console.log(">>> check mine: ", mine)
+console.log(">>> check mine: ", mine);
